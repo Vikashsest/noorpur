@@ -6,6 +6,7 @@ export const middleware = (request) => {
     'http://localhost:8081',
     'http://localhost:3000',
     'https://npp-noorpur.org',
+    'http://128.1.1.11',
     'https://noorpur-tarun-kushwahs-projects.vercel.app',
     'https://noorpur-git-main-tarun-kushwahs-projects.vercel.app',
   ];
